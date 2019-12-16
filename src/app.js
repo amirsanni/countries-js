@@ -1290,142 +1290,132 @@ const all = () => {
         {
             "ext": "+261",
             "name": "Madagascar",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
+            "currencyCode": "MGA",
+            "currencySymbol": "MGA",
+            "currencyName": "Malagasy Ariary",
+            "capital": "Antananarivo",
             "continent": "Africa",
-            "officialLanguage": ""
+            "officialLanguage": "French"
         },
         {
             "ext": "+265",
             "name": "Malawi",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
+            "currencyCode": "MWK",
+            "currencySymbol": "K",
+            "currencyName": "Malawian Kwacha",
+            "capital": "Lilongwe",
             "continent": "Africa",
-            "officialLanguage": ""
+            "officialLanguage": "English"
         },
         {
             "ext": "+60",
             "name": "Malaysia",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
+            "currencyCode": "NYR",
+            "currencySymbol": "RM",
+            "currencyName": "Malaysian Ringgit",
+            "capital": "Kuala Lumpur",
             "continent": "Asia",
-            "officialLanguage": ""
+            "officialLanguage": "Malay"
         },
         {
             "ext": "+960",
             "name": "Maldives",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
-            "continent": "",
-            "officialLanguage": ""
+            "currencyCode": "MVR",
+            "currencySymbol": "Rf",
+            "currencyName": "Maldivian Rufiyaa",
+            "capital": "Malé",
+            "continent": "Asia",
+            "officialLanguage": "Dhivehi"
         },
         {
             "ext": "+223",
             "name": "Mali",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
+            "currencyCode": "XOF",
+            "currencySymbol": "CFA",
+            "currencyName": "West African CFA franc",
+            "capital": "Bamako",
             "continent": "Africa",
-            "officialLanguage": ""
+            "officialLanguage": "French"
         },
         {
             "ext": "+356",
             "name": "Malta",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
+            "currencyCode": "EUR",
+            "currencySymbol": "€",
+            "currencyName": "Euro",
+            "capital": "Valletta",
             "continent": "Europe",
-            "officialLanguage": ""
+            "officialLanguage": "Maltese"
         },
         {
             "ext": "+692",
             "name": "Marshall Islands",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
-            "continent": "",
-            "officialLanguage": ""
+            "currencyCode": "USD",
+            "currencySymbol": "$",
+            "currencyName": "United States Dollar",
+            "capital": "Delap-Uliga-Djarrit",
+            "continent": "Oceania",
+            "officialLanguage": "English"
         },
         {
             "ext": "+596",
             "name": "Martinique",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
-            "continent": "",
-            "officialLanguage": ""
+            "currencyCode": "EUR",
+            "currencySymbol": "€",
+            "currencyName": "Euro",
+            "capital": "Fort-de-France Bay",
+            "continent": "North America",
+            "officialLanguage": "French"
         },
         {
             "ext": "+222",
             "name": "Mauritania",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
+            "currencyCode": "MRU",
+            "currencySymbol": "UM",
+            "currencyName": "Mauritanian Ouguiya",
+            "capital": "Nouakchott",
             "continent": "Africa",
-            "officialLanguage": ""
+            "officialLanguage": "Arabic"
         },
         {
             "ext": "+230",
             "name": "Mauritius",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
+            "currencyCode": "MUR",
+            "currencySymbol": "MURs",
+            "currencyName": "Mauritian Rupee",
+            "capital": "Port Louis",
             "continent": "Africa",
-            "officialLanguage": ""
+            "officialLanguage": "English"
         },
         {
             "ext": "+262",
             "name": "Mayotte",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
-            "continent": "",
-            "officialLanguage": ""
+            "currencyCode": "EUR",
+            "currencySymbol": "€",
+            "currencyName": "Euro",
+            "capital": "Mamoudzou",
+            "continent": "Africa",
+            "officialLanguage": "French"
         },
         {
             "ext": "+52",
             "name": "Mexico",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
-            "continent": "South America",
-            "officialLanguage": ""
+            "currencyCode": "MXN",
+            "currencySymbol": "MX$",
+            "currencyName": "Mexican Peso",
+            "capital": "Mexico City",
+            "continent": "North America",
+            "officialLanguage": "Spanish"
         },
         {
             "ext": "+691",
             "name": "Micronesia",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
-            "continent": "",
-            "officialLanguage": ""
-        },
-        {
-            "ext": "+1 808",
-            "name": "Midway Island",
-            "currencyCode": "",
-            "currencySymbol": "",
-            "currencyName": "",
-            "capital": "",
-            "continent": "",
-            "officialLanguage": ""
+            "currencyCode": "USD",
+            "currencySymbol": "$",
+            "currencyName": "United States Dollar",
+            "capital": "Palikir",
+            "continent": "Oceania",
+            "officialLanguage": "English"
         },
         {
             "ext": "+373",
