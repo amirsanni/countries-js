@@ -1,7 +1,7 @@
 {
   "name": "@amirsanni/countries",
   "version": "0.0.1",
-  "description": "A list of countries with a couple of details about them.",
+  "description": "A list of countries with a couple of details (currency, continent, offical language, capital etc) about them.",
   "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,8 +13,10 @@
   "keywords": [
     "Countries",
     "CurrencyCode",
-    "CallCode",
-    "Capital"
+    "Call extension",
+    "Capital",
+    "Continent",
+    "Official Language"
   ],
   "author": "Amir Sanni <amirsanni@gmail.com>",
   "license": "ISC",
