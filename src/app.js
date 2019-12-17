@@ -2383,6 +2383,18 @@ const get = (countryName) => {
 };
 
 
+const currencies = () => {
+    let a = [];
+
+	all().forEach(({currencyCode})=>{
+		a.indexOf(currencyCode) === -1 ? a.push(currencyCode) : '';
+	});
+
+	return a.sort();
+};
+
+
 module.exports.all = all;
 module.exports.list = list;
 module.exports.get = get;
+module.exports.currencies = currencies;
