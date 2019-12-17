@@ -10,7 +10,8 @@ npm i @amirsanni/countries
 ```
 const countries = require('countries');
 
-countries.all();//returns an array of all countries
-countries.list();//returns an array of all countries name
+countries.all();//returns an array of all countries and their details
+countries.list();//returns an array of all country names
 countries.get('Jamaica');//returns an object with details about the specified country
+countries.currencies();//returns the ISO code of all currencies
 ```
